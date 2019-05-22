@@ -4,7 +4,6 @@
    67  git config --global user.email "dylewska5karolina@gmail.com"
    68  git config --global user.name "kade282"
    51  git init
-   52  git branch kade282
    53  git checkout -b kade282
    54  git status
    55  git add -A
