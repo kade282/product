@@ -1,32 +1,17 @@
- history
-    1  pwd
-    2  mkdir studia
-    3  ls
-    4  cd studia
-    5  git clone https://github.com/kade282/product.git
-    6  ls
-    7  cd product/
-    8  ls
-    9  git status
-   10  git add -A
-   11  git status
-   12  git commit -m "New produkt site"
-   13   git config --global user.email "dylewska5karolna@gmail.com"
-   14   git config --global user.name "Your Name"
-   15   git config --global user.name "kade282"
-   16  git commit -m "New produkt site"
-   17  git status
-   18  git push
-   19  Kangurek5
-   20  git push
-   21  git checkout -b kade282
-   22  git push origin kade282
-   23  git remote add level kade282
-   24  git status
-   25  git add INSTEUKCJA.docx
-   26  git status
-   27  git commit -m "Coś dodane"
-   28  git push
-   29  git push level kade282
-   30  git push origin kade282
-   31  history
+
+   10  rm -r aplikacja/.git/
+
+   67  git config --global user.email "dylewska5karolina@gmail.com"
+   68  git config --global user.name "kade282"
+   51  git init
+   52  git branch kade282
+   53  git checkout -b kade282
+   54  git status
+   55  git add -A
+   56  git status
+   57  git commit -a -m "Firabase UI AUTH"
+   59  git status
+   60  git remote -v
+   62  git remote add origin https://github.com/Szerszen1/RazemRazniej.git
+   63  git remote -v
+   64  git push -u origin kade282
