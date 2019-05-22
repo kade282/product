@@ -14,3 +14,10 @@
    62  git remote add origin https://github.com/Szerszen1/RazemRazniej.git
    63  git remote -v
    64  git push -u origin kade282
+   
+   branch conflict git add, commit
+   branch master add, commit
+   master: git merge conflict 
+   git add, commit (message)
+   git log
+   git push
